@@ -12,14 +12,14 @@ work due to missing features.
 For image uploading, have a jpeg or png image that's smaller than 5MB.
 
 ## Starting the Backend Express Server 
-    `cd server`
-    `npm install`
-    `npm start`
+    cd server
+    npm install
+    npm start
 
 ## Starting the Frontend React Client (Development Mode)
-    `cd client`
-    `npm install`
-    `npm start`
+    cd client
+    npm install
+    npm start
 
 ### MAKE SURE BOTH APPS ARE RUNNING
 
